@@ -1,4 +1,4 @@
-# Provenance Index CSV Exports
+# CSV exports of the Getty Provenance Index®
 
 The J. Paul Getty Trust (the "Trust"), operating as the Getty Research Institute, has embarked on a three-year project to redesign the current infrastructure of the [Getty Provenance Index® databases](http://www.getty.edu/research/tools/provenance/) and publish them as Linked Open Data (LOD). 
 Because this is a time-consuming process, we want to enable open and convenient access to full datasets from the Getty Provenance Index® for researchers during early stages of this project, before the LOD versions are released to the public.
@@ -7,7 +7,9 @@ Because this is a time-consuming process, we want to enable open and convenient 
 While this repository will remain public after the LOD release, the datasets it contains will not be maintained in any way.
 When a dataset published in this repository is replaced by its continuously maintained LOD version, it will be switched from "Active" to "Unsupported" in the table below.
 
-|Knoedler|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
+|Database|Status|
+|--------|--------------------------------------|
+|[Knoedler](tree/master/knoedler)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
 
 ## Repository structure
 
@@ -30,7 +32,7 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 
 Suggested citation:
 
-Getty Research Institute®, _CSV exports of the Getty Provenance Index®__ (November 17th, 2016), <https://github.com/gettydata/releases/tag/v1>
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (November 17th, 2016), <https://github.com/gettydata/releases/tag/v1>
 
 Note that a new tagged release will be made whenever any of these datasets are added or updated. A list of these tagged releases can be seen here: <https://github.com/gettydata/releases>
 
