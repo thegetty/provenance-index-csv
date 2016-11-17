@@ -1,5 +1,9 @@
 # Knoedler
 
+## License
+
+The Knoedler dataset is offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Dataset description & scope
 
 This dataset contains 40,335 records transcribed from the [11 painting stock books](http://hdl.handle.net/10020/2012m54s1a) and enhanced with information transcribed from the [21 paintings and watercolors sales books](http://hdl.handle.net/10020/2012m54s2ny) of M. Knoedler & Co. in New York (1872-1970). 
