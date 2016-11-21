@@ -1,8 +1,8 @@
-# Knoedler
+# Knoedler Stock Books
 
 ## License
 
-The Knoedler dataset is offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
+The Knoedler stock books dataset is offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Dataset description & scope
 
