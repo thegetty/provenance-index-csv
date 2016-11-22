@@ -46,9 +46,9 @@ The most current data are available via the Getty Provenance Index® search inte
 Updates to the datasets in this repository are not scheduled but may occur.
 You are advised to use, or update to, the most current version of these datasets for best accuracy.
 
-No warranty, express or implied, is made regarding accuracy, adequacy, completeness, legality, reliability or usefulness of any information provided.
+**No warranty, express or implied, is made regarding accuracy, adequacy, completeness, legality, reliability or usefulness of any information provided.
 The Trust provides this information on an "AS IS" basis.
-All warranties of any kind, express or implied, including but not limited to the IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, freedom from contamination by computer viruses and non-infringement of proprietary rights ARE DISCLAIMED to the maximum extent permitted by law.
+All warranties of any kind, express or implied, including but not limited to the IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, freedom from contamination by computer viruses and non-infringement of proprietary rights ARE DISCLAIMED to the maximum extent permitted by law.**
 
 ### Trademark Policy/No Endorsement
 
