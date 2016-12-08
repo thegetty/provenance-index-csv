@@ -20,7 +20,7 @@ When a dataset published in this repository is replaced by its continuously main
   * [Data Integrity/DISCLAIMER OF WARRANTIES](#data-integritydisclaimer-of-warranties)
   * [Trademark Policy/No Endorsement](#trademark-policyno-endorsement)
   * [Pull Requests, Issues, and Bug Reports](#pull-requests-issues-and-bug-reports)
-  * [Acknowledgment](#acknowledgment)
+* [Acknowledgment](#acknowledgment)
 
 ## Repository structure
 
@@ -72,7 +72,7 @@ If you transform or modify a dataset, you must clearly distinguish the resulting
 Please note that, as these data are exported from our internal databases, we cannot accept pull requests for the data in this repository. 
 However, during the period when this repository is actively maintained (before the LOD release), we will review issues and pull requests for documentation or other non-data content issues posted here.
 
-### Acknowledgment
+## Acknowledgment
 
 This repository and README are largely inspired by the detailed work done by the [Carnegie Museum of Art](https://github.com/cmoa/collection) on their own collections data repository.
 We thank them for providing an excellent model!
