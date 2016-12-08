@@ -1,5 +1,19 @@
 # CSV exports of the Getty Provenance Index®
 
+### Table of Contents
+
+* [Introduction](#introduction)
+* [Repository structure](#repository-structure)
+* [Usage guidelines](#usage-guidelines)
+  * [License](#license)
+  * [Attribution](#attribution)
+  * [Data Integrity/DISCLAIMER OF WARRANTIES](#data-integritydisclaimer-of-warranties)
+  * [Trademark Policy/No Endorsement](#trademark-policyno-endorsement)
+  * [Pull Requests, Issues, and Bug Reports](#pull-requests-issues-and-bug-reports)
+* [Acknowledgment](#acknowledgment)
+
+## Introduction
+
 The J. Paul Getty Trust (the "Trust"), operating as the Getty Research Institute, has embarked on a three-year project to redesign the current infrastructure of the [Getty Provenance Index® databases](http://www.getty.edu/research/tools/provenance/) and publish them as Linked Open Data (LOD). 
 Because this is a time-consuming process, we want to enable open and convenient access to full datasets from the Getty Provenance Index® for researchers during early stages of this project, before the LOD versions are released to the public.
 
@@ -61,7 +75,7 @@ If you transform or modify a dataset, you must clearly distinguish the resulting
 Please note that, as these data are exported from our internal databases, we cannot accept pull requests for the data in this repository. 
 However, during the period when this repository is actively maintained (before the LOD release), we will review issues and pull requests for documentation or other non-data content issues posted here.
 
-### Acknowledgment
+## Acknowledgment
 
 This repository and README are largely inspired by the detailed work done by the [Carnegie Museum of Art](https://github.com/cmoa/collection) on their own collections data repository.
 We thank them for providing an excellent model!
