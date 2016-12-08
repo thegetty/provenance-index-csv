@@ -1,5 +1,19 @@
 # CSV exports of the Getty Provenance Index®
 
+### Table of Contents
+
+* [Introduction](#introduction)
+* [Repository structure](#repository-structure)
+* [Usage guidelines](#usage-guidelines)
+  * [License](#license)
+  * [Attribution](#attribution)
+  * [Data Integrity/DISCLAIMER OF WARRANTIES](#data-integritydisclaimer-of-warranties)
+  * [Trademark Policy/No Endorsement](#trademark-policyno-endorsement)
+  * [Pull Requests, Issues, and Bug Reports](#pull-requests-issues-and-bug-reports)
+* [Acknowledgment](#acknowledgment)
+
+## Introduction
+
 The J. Paul Getty Trust (the "Trust"), operating as the Getty Research Institute, has embarked on a three-year project to redesign the current infrastructure of the [Getty Provenance Index® databases](http://www.getty.edu/research/tools/provenance/) and publish them as Linked Open Data (LOD). 
 Because this is a time-consuming process, we want to enable open and convenient access to full datasets from the Getty Provenance Index® for researchers during early stages of this project, before the LOD versions are released to the public.
 
@@ -10,17 +24,6 @@ When a dataset published in this repository is replaced by its continuously main
 |Database|Status|
 |--------|--------------------------------------|
 |[Knoedler](https://github.com/gettyopendata/provenance-index-csv/tree/master/knoedler)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
-
-### Table of Contents
-
-* [Repository structure](#repository-structure)
-* [Usage guidelines](#usage-guidelines)
-  * [License](#license)
-  * [Attribution](#attribution)
-  * [Data Integrity/DISCLAIMER OF WARRANTIES](#data-integritydisclaimer-of-warranties)
-  * [Trademark Policy/No Endorsement](#trademark-policyno-endorsement)
-  * [Pull Requests, Issues, and Bug Reports](#pull-requests-issues-and-bug-reports)
-* [Acknowledgment](#acknowledgment)
 
 ## Repository structure
 
