@@ -11,6 +11,17 @@ When a dataset published in this repository is replaced by its continuously main
 |--------|--------------------------------------|
 |[Knoedler](https://github.com/gettyopendata/provenance-index-csv/tree/master/knoedler)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
 
+### Table of Contents
+
+* [Repository structure](#repository-structure)
+* [Usage guidelines](#usage-guidelines)
+  * [License](#license)
+  * [Attribution](#attribution)
+  * [Data Integrity/DISCLAIMER OF WARRANTIES](#data-integritydisclaimer-of-warranties)
+  * [Trademark Policy/No Endorsement](#trademark-policyno-endorsement)
+  * [Pull Requests, Issues, and Bug Reports](#pull-requests-issues-and-bug-reports)
+  * [Acknowledgment](#acknowledgment)
+
 ## Repository structure
 
 The Getty Provenance Index® comprises several distinct databases. 
