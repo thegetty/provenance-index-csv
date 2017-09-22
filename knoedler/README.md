@@ -17,7 +17,7 @@ license](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 This dataset contains 40,245 records transcribed from the [11 painting
 stock books](http://hdl.handle.net/10020/2012m54s1a)  and enhanced with
 information from the [21 paintings and watercolors sales
-books](http://hdl.handle.net/10020/2012m54s2ny)[ ](http://primo.getty.edu/primo_library/libweb/action/search.do?ct=&pag=&indx=1&pageNumberComingFrom=3&frbg=&rfnGrpCounter=1&vl(96033584UI1)=all_items&indx=21&fn=search&dscnt=3&vl(1UIStartWith0)=exact&scp.scps=scope%3A(GETTY_ROSETTA)&vl(21781791UI0)=any&fctV=M.%20Knoedler%20%26%20Co&mode=Basic&vid=GRI&ct=Next%20Page&rfnGrp=1&srt=title&tab=all_gri&fctN=facet_creator&vl(freeText0)=Series%20II.%20Sales%20books.%20&dum=true&dstmp=1478040199797) of
+books](http://hdl.handle.net/10020/2012m54s2ny) of
 M. Knoedler & Co. in New York (1872-1970). [Read more about the
 extensive Knoedler archive containing these
 books.](http://www.getty.edu/research/special_collections/notable/knoedler.html)
