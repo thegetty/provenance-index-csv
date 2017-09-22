@@ -55,9 +55,9 @@ and clarity, editorial changes were made during and post-transcription:
 -   Abbreviations may be spelled out.
 
 -   Titles in brackets were added by PSCP from further research and the
-    source of such information is included. The title `"[Untitled]"` was
-    added when a title could not be found. The title "Untitled" without
-    brackets is verbatim from the stock book. See the `"public_notes"`
+    source of such information is included. The title `[Untitled]` was
+    added when a title could not be found. The title `Untitled` without
+    brackets is verbatim from the stock book. See the `notes`
     column below for more details about the use of brackets in specific
     fields. 
 
