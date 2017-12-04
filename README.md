@@ -23,7 +23,8 @@ When a dataset published in this repository is replaced by its continuously main
 
 |Database|Status|
 |--------|--------------------------------------|
-|[Knoedler](https://github.com/gettyopendata/provenance-index-csv/tree/master/knoedler)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
+|[Knoedler](https://github.com/thegetty/provenance-index-csv/tree/master/knoedler)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
+|[Sales Catalogs](https://github.com/thegetty/provenance-index-csv/tree/master/sales_catalogs)|[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)|
 
 ## Repository structure
 
@@ -46,9 +47,9 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 
 Suggested citation:
 
->Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (November 21, 2016), <https://github.com/gettyopendata/provenance-index-csv/releases/tag/v1>
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 12, 2016), <https://github.com/thegetty/provenance-index-csv/releases/tag/v1>
 
-Note that a new tagged release will be made whenever any of these datasets are added or updated. A list of these tagged releases can be seen here: <https://github.com/gettyopendata/provenance-index-csv/releases>
+Note that a new tagged release will be made whenever any of these datasets are added or updated. A list of these tagged releases can be seen here: <https://github.com/thegetty/provenance-index-csv/releases>
 
 ### Data Integrity/DISCLAIMER OF WARRANTIES
 
