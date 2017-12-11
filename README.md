@@ -47,7 +47,7 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 
 Suggested citation:
 
->Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 12, 2016), <https://github.com/thegetty/provenance-index-csv/releases/tag/v1>
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 15, 2017), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
 
 Note that a new tagged release will be made whenever any of these datasets are added or updated. A list of these tagged releases can be seen here: <https://github.com/thegetty/provenance-index-csv/releases>
 

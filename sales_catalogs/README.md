@@ -58,6 +58,14 @@ Primarily, the dataset is a "verbatim" transcription of the sales catalogs, mean
 
 The Getty Provenance Index is indebted to its many international collaborators and partners, who have made invaluable contributions to the Sales Catalogs dataset. You may find a list of individual and institutional contributors here: <http://www.getty.edu/research/tools/provenance/collaborators/index.html>.
 
+## Attribution
+
+We respectfully ask that you acknowledge the Getty Research Institute® and Getty Provenance Index® as sources wherever possible, in order to preserve links to the datasets. By providing acknowledgment or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data.
+
+Suggested citation:
+
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 15, 2017), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
+
 ## Data Dictionaries
 
 ### Sales Contents
