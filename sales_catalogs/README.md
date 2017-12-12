@@ -66,7 +66,7 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 
 Suggested citation:
 
->Getty Research Institute®, \_CSV exports of the Getty Provenance Index®_ (December 15, 2017), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 15, 2017), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
 
 ## Data Dictionaries
 
