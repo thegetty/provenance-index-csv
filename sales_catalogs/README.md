@@ -3,6 +3,8 @@
 * [License](#license)
 * [Dataset description &amp; scope](#dataset-description--scope)
 * [General editorial guidelines](#general-editorial-guidelines)
+* [Acknowledgments](#acknowledgments)
+* [Attribution](#attribution)
 * [Data dictionaries](#data-dictionaries)
   * [Sales Contents](#sales-contents)
   * [Sales Descriptions](#sales-descriptions)
