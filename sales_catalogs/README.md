@@ -14,7 +14,7 @@ The Sales Catalogs dataset is offered under a [CC0 1.0 Universal license](https:
 
 ## Dataset Description & Scope
 
-This dataset contains 1,263,995 records. This represents 16,322 sale description records and 1,247,673 sale content records. The sale description records describe the sale catalogs at the document level. The content records represent the lots that appear in the sale catalogs; a lot may refer to one or more objects. Every content record is associated with a description record. For some sale catalogs, there may be a sale description record without any sale content records.
+This dataset contains 1,247,960 sale content records, 16,322 sale description records, and 46,522 sales catalogs information records. The sale description records describe the sale catalogs at the document level. The content records represent the lots that appear in the sale catalogs; a lot may refer to one or more objects. Every content record is associated with a description record. For some sale catalogs, there may be a sale description record without any sale content records.
 
 There are three separate tables linked by `catalog_number` that make up the Sales Catalogs dataset:
 
