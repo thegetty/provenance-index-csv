@@ -12,7 +12,7 @@
 
 ## License
 
-The Sales Catalogs dataset is offered under a [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+The Sales Catalogs dataset is offered under the Creative Commons [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 ## Dataset Description & Scope
 
