@@ -45,8 +45,8 @@ and clarity, editorial changes were made during and post-transcription:
 -   Goupil recorded purchase, dealer’s cost, and sale prices using two alphabetic coding schemes. The main price codes and 
     their translations are included, but transaction details such as commission, restoration, framing, depreciation, etc., can      only be viewed using the [Stock Books](http://www.getty.edu/research/tools/digital_collections/goupil_cie/books.html).
 
-The price coding schemes, which were handwritten by Dieterle on the title page of almost all of the stock books, are shown below:
-for stock books 1-7:    A=1; M=2; O=3; N=4; S=5; I=6; E=7; U=8; R=9; X=0; Z=0 (“a monsieur”)
+-   The price coding schemes, which were handwritten by Dieterle on the title page of almost all of the stock books, are shown below:
+    for stock books 1-7:    A=1; M=2; O=3; N=4; S=5; I=6; E=7; U=8; R=9; X=0; Z=0 (“a monsieur”)
 for stock books 8-15:  P=1; R=2; E=3; C=4; A=5; U=6; T=7; I=8; O=9; N=0; X=0; Z=0 Y=0 (“precaution”)
 
 
