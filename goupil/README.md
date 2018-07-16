@@ -131,7 +131,7 @@ for stock books 8-15:  P=1; R=2; E=3; C=4; A=5; U=6; T=7; I=8; O=9; N=0; X=0; Z=
 |  present_loc_ulan_id | numeric |  | ULAN ID for present owning institution. | 500303422 |  |  |
 |  working_note | alphabetic | blank |  | Colonnes n., sujet, genre, artiste, date entree, prix de revien | See verbatim_notes |  |
 |  verbatim_notes | alphabetic | blank | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. | suprimé, vendu par Mr Uls |  | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. |
-|  editor_notes | alphabetic | blank | All research notes and remarks from the PSCP editors. | Il n`est pas certain que le nom de l`acheteur soit "La Haye" | See verbatim_notes |  |
+|  editor_notes | alphabetic | blank | All research notes and remarks from the PSCP editors. | Il n'est pas certain que le nom de l;acheteur soit "La Haye" | See verbatim_notes |  |
 |  no_name_notes | alphabetic | blank | Information from a column in the stock books that was untitled. | NY P55 |  |  |
 |  rosetta_handle | alphanumeric | blank | URL for an image of the stock book page on which the record appears | http://hdl.handle.net/10020/900239_FL1647151 |  |  |
 
