@@ -1,4 +1,4 @@
-# Goupil Stock Books DRAFT
+# Goupil Stock Books 
 
 ### Table of Contents
 
