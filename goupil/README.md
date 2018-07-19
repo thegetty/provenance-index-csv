@@ -54,7 +54,7 @@ for stock books 8-15:  P=1; R=2; E=3; C=4; A=5; U=6; T=7; I=8; O=9; N=0; X=0; Z=
 |  **field_name** | **data_type** | **missing_values** | **field_description** | **field_example** | **public_notes** |
 |  :------ | :------ | :------ | :------ | :------ | :------ |
 |  pi_record_no | alphanumeric | n/a | Unique Getty-assigned number of 1 to 5 digits prefaced with "G-". | G-24567 |  |
-|  **Multiple groups of stock book number fields, numbered sequentially from _1 to _15, may occur.** |  |  |  |  |  |
+|  **Multiple groups of stock book number fields, numbered sequentially from _1 to _8, may occur.** |  |  |  |  |  |
 |  stock_book_no_1 | numeric | n/a | Number of the stock book in which the object appears. | 7 | See Goupil & Cie stock books |
 |  stock_book_gno_1 | numeric | n/a | Stock number assigned by Goupil for the object. | 6944 |  |
 |  stock_book_pg_1 | numeric | n/a | Page on which the record appears in the stock book. | 96 |  |
