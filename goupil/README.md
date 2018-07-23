@@ -83,16 +83,16 @@ and clarity, editorial changes were made during and post-transcription:
 |  purch_amount | numeric | blank | Total amount paid by the dealer for the object. | 7500 | Occasionally, a code like those used in cost_translation (see below) is used, in which case this field contains the translated code. |
 |  purch_code |  |  | Code for amount dealer paid for the object. | TANN |  |
 |  purch_currency | alphabetic | blank | Currency with which the dealer paid for the object. | francs |  |
-|  purch_frame | alphanumeric | blank | Price paid or other information about the frame | cadre 50 francs<br/>cadre compris |  |
+|  purch_frame | alphanumeric | blank | Price paid or other information about the frame. | cadre 50 francs<br/>cadre compris |  |
 |  purch_note | alphabetic | blank | Additional information about the dealer's purchase of the object. | pour 106a & 106b<br/> | If the price was paid for multiple objects, such information will appear here. |
 |  purch_ques | alphabetic | blank | If there is uncertainty about the purchase price, this field contains a "?" in brackets. | ? |  |
-|  purch_loc | alphabetic | blank | Location at which purchase was made | Arthur, Tooth & Sons, 155, New Bond Street, Londres | Purchase locations, often mentioned in the "Stock Book Notes" column in the Goupil stock books, are formatted as place, city, and country. Locations most often cited are branches of Goupil & Cie. |
+|  purch_loc | alphabetic | blank | Location at which purchase was made. | Arthur, Tooth & Sons, 155, New Bond Street, Londres | Purchase locations, often mentioned in the "Stock Book Notes" column in the Goupil stock books, are formatted as place, city, and country. Locations most often cited are branches of Goupil & Cie. |
 |  purch_loc_note | alphabetic | blank | Additional information about the purchase location. | Chevallier, commissaire priseur |  |
 |  cost_code | alphabetic | blank | Code for dealer's cost of preparing the object for sale. | NUO | Dealer cost codes are more commonly referred to as production costs in galleries today. |
 |  cost_translation | alphabetic | blank | Translation of code for dealer's cost preparing the object for sale. | 483 | See dataset documentation above |
 |  cost_currency | alphabetic | blank | Currency with which the dealer's cost was paid. | francs |  |
 |  cost_frame | alphanumeric | blank | Amount (with currency) dealer spent on frame. | cadre 40 francs |  |
-|  cost_description | alphabetic | blank | Additional information about the dealer's cost | Pour les nos 1015[a] & 1015[b] | If the price was paid for multiple objects, such information will appear here. |
+|  cost_description | alphabetic | blank | Additional information about the dealer's cost. | Pour les nos 1015[a] & 1015[b] | If the price was paid for multiple objects, such information will appear here. |
 |  cost_number | numeric | blank | Number that appears in stock book next to dealer's cost. | 700 | The meaning of this number is not currently known. |
 |  **Multiple groups of price fields, numbered sequentially from _1 to _2, may occur.** |  |  |  |  |  |
 |  price_amount_1 | numeric |  | Amount paid by the buyer to the dealer. | 6700 |  |
@@ -108,8 +108,8 @@ and clarity, editorial changes were made during and post-transcription:
 |  seller_ulan_id_1 | numeric |  | ULAN ID for first seller authority | 500447965 |  |
 |  **Multiple groups of joint owner name fields, numbered sequentially from _1 to _3, may occur.** |  |  |  |  |  |
 |  joint_own_1 | alphabetic | blank | Name of first joint owner. | Wallis |  |
-|  joint_own_sh_1 | alphanumeric | blank | Fractional share owned by first joint owner | 1/2 |  |
-|  joint_ulan_id_1 | alphanumeric | blank | ULAN ID for first joint owner | 500435647 |  |
+|  joint_own_sh_1 | alphanumeric | blank | Fractional share owned by first joint owner. | 1/2 |  |
+|  joint_ulan_id_1 | alphanumeric | blank | ULAN ID for first joint owne.r | 500435647 |  |
 |  transaction | alphabetic | blank | Indicates sale status of the object.  | Vendu |  |
 |  **Multiple groups of buyer name fields, numbered sequentially from _1 to _2 may occur.** |  |  |  |  |  |
 |  buyer_name_1 | alphabetic | blank | Verbatim name of first buyer. | Chaine & Simonson |  |
@@ -119,7 +119,7 @@ and clarity, editorial changes were made during and post-transcription:
 |  buy_auth_addr_1 | alphabetic | blank | Authority location for first buyer, established by PSCP. | Paris, France |  |
 |  buy_auth_mod_1 | alphabetic | blank | Text that supplies additional information about the primary buyer. | par Succursale de La Haye, Pays-Bas. | If there was an agent relationship between the primary buyer and an intermediary such information will appear here. |
 |  buyer_ULAN_ID_1 | numeric |  | ULAN ID for first buyer. | 500443250 |  |
-|  previous_owner | alphabetic | blank | Notes about owner(s) of object prior to current transaction described | Georges Petit | Multiple values are concatenated with semi-colons. |
+|  previous_owner | alphabetic | blank | Notes about owner(s) of object prior to current transaction described. | Georges Petit | Multiple values are concatenated with semi-colons. |
 |  previous_sales | alphabetic | blank | Notes about sales that included the object before the current transaction. | Vente Troyon |  |
 |  post_sales | alphabetic | blank | Notes about sales that included the object after the current transaction. | Galerie d'un amateur de Vienne, Vente les vendredi 27 et samedi |  |
 |  post_owner | alphabetic | blank | Notes about the owners of the object following the current sale. | 1898 achete par W.R. Hearst chez Knoedler | Multiple values are concatenated with semi-colons. |
@@ -129,8 +129,8 @@ and clarity, editorial changes were made during and post-transcription:
 |  present_loc_acc | alphanumeric | blank | Accession number in collection of present owning institution, if known. | 87.15.130 |  |
 |  present_loc_note | alphabetic | blank | Text that supplies additional information about the owning institution. | as "Ovide among the Scythians" |  |
 |  present_loc_ulan_id | numeric |  | ULAN ID for present owning institution. | 500303422 |  |
-|  working_note | alphabetic | blank |  | Colonnes n., sujet, genre, artiste, date entree, prix de revien |  |
+|  working_note | alphabetic | blank | Notes added by PSCP editors. | Colonnes n., sujet, genre, artiste, date entree, prix de revient a l`encre rouge |  |
 |  verbatim_notes | alphabetic | blank | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. | suprimé, vendu par Mr Uls | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. |
 |  editor_notes | alphabetic | blank | All research notes and remarks from the PSCP editors. | Il n'est pas certain que le nom de l'acheteur soit "La Haye" |  |
 |  no_name_notes | alphabetic | blank | Information from a column in the stock books that was untitled. | NY P55 |  |
-|  rosetta_handle | alphanumeric | blank | URL for an image of the stock book page on which the record appears | http://hdl.handle.net/10020/900239_FL1647151 |  |
+|  rosetta_handle | alphanumeric | blank | URL for an image of the stock book page on which the record appears. | http://hdl.handle.net/10020/900239_FL1647151 |  |
