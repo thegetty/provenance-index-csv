@@ -15,7 +15,7 @@ The Goupil stock books dataset is offered under the Creative Commons [CC0 1.0 Un
 
 This dataset contains 43,750 records transcribed from the [15 stock books](http://hdl.handle.net/10020/900239_livre) of Goupil & Cie/Boussod, Valadon & Cie in Paris (1846-1919). [Read more about the Goupil stock books](http://www.getty.edu/research/tools/digital_collections/goupil_cie/index.html).
 
-In general, stock books are administered by galleries and art dealers to record information about works of art that come into their inventories. Information from these stock books, of which the Goupil stock books are a prime example, includes the date of acquisition, dealer's costs, names of purchasers, date of sales, and selling prices for works of art bought and sold by the gallery. Most of the information provided is written in French, but some may be in English. Some handwritten notes may not be included. 
+In general, stock books are administered by galleries and art dealers to record information about works of art that come into their inventories. Information from these stock books, of which the Goupil stock books are a prime example, includes the date of acquisition, dealer's costs, names of purchasers, dates of sales, and selling prices for works of art bought and sold by the gallery. Most of the information provided is written in French, but some may be in English. Some handwritten notes may not be included. 
 
 # Data Dictionary & Editorial Guidelines
 
