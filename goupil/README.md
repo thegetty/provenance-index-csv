@@ -13,7 +13,7 @@ The Goupil stock books dataset is offered under the Creative Commons [CC0 1.0 Un
 
 ## Dataset Description & Scope
 
-This dataset contains 43,750 records transcribed from the [15 stock books](http://hdl.handle.net/10020/900239_livre) of Goupil & Cie/Boussod, Valadon & Cie in Paris (1846-1919). [Read more about the Goupil stock books](http://www.getty.edu/research/tools/digital_collections/goupil_cie/index.html).
+This dataset contains more than 43,000 records transcribed from the [15 stock books](http://hdl.handle.net/10020/900239_livre) of Goupil & Cie/Boussod, Valadon & Cie in Paris (1846-1919). [Read more about the Goupil stock books](http://www.getty.edu/research/tools/digital_collections/goupil_cie/index.html).
 
 In general, stock books are administered by galleries and art dealers to record information about works of art that come into their inventories. Information from these stock books, of which the Goupil stock books are a prime example, includes the date of acquisition, dealer's costs, names of purchasers, dates of sales, and selling prices for works of art bought and sold by the gallery. Most of the information provided is written in French, but some may be in English. Some handwritten notes may not be included. 
 
@@ -129,7 +129,6 @@ and clarity, editorial changes were made during and post-transcription:
 |  present_loc_acc | alphanumeric | blank | Accession number in collection of present owning institution, if known. | 87.15.130 |  |
 |  present_loc_note | alphabetic | blank | Text that supplies additional information about the owning institution. | as "Ovide among the Scythians" |  |
 |  present_loc_ulan_id | numeric |  | ULAN ID for present owning institution. | 500303422 |  |
-|  working_note | alphabetic | blank | Notes added by PSCP editors. | Colonnes n., sujet, genre, artiste, date entree, prix de revient a l`encre rouge |  |
 |  verbatim_notes | alphabetic | blank | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. | suprimé, vendu par Mr Uls | All notes and miscellaneous information from the stock book entry are combined into this field. May contain editorial notes added for clarification. |
 |  editor_notes | alphabetic | blank | All research notes and remarks from the PSCP editors. | Il n'est pas certain que le nom de l'acheteur soit "La Haye" |  |
 |  no_name_notes | alphabetic | blank | Information from a column in the stock books that was untitled. | NY P55 |  |
