@@ -16,7 +16,7 @@
 
 ## Introduction
 
-The J. Paul Getty Trust (the "Trust"), operating as the Getty Research Institute, has embarked on a [three-year project](http://www.getty.edu/provenance_remodel) to redesign the current infrastructure of the [Getty Provenance Index® databases](http://www.getty.edu/research/tools/provenance/) and publish them as Linked Open Data (LOD). 
+The J. Paul Getty Trust (the "Trust"), operating as the Getty Research Institute, has embarked on a [multi-year project](http://www.getty.edu/provenance_remodel) to redesign the current infrastructure of the [Getty Provenance Index® databases](http://www.getty.edu/research/tools/provenance/) and publish them as Linked Open Data (LOD). 
 Because this is a time-consuming process, we want to enable open and convenient access to full datasets from the Getty Provenance Index® for researchers during early stages of this project, before the LOD versions are released to the public.
 
 **These data will eventually be superseded by the Linked Open Data release.**
@@ -50,7 +50,7 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 
 Suggested citation:
 
->Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (December 15, 2017), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
+>Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (June 1, 2022), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
 
 Note that a new tagged release will be made whenever any of these datasets are added or updated. A list of these tagged releases can be seen here: <https://github.com/thegetty/provenance-index-csv/releases>
 
