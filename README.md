@@ -34,7 +34,7 @@ When a dataset published in this repository is replaced by its continuously main
 The Getty Provenance Index® comprises several distinct databases. 
 The quantity and scope of research material that is available in each database varies by region, period, and type of document.
 
-Each database is provided in one or more CSV (comma separated values) files.  The Knoedler files reside in their own directory, the Sales Catalogs files and the Goupil files, due to their size, are stored in an AWS S3 bucket. Each of the database directories contains a database-specific README file documenting the sources from which each dataset has been derived, as well as a data dictionary with a description of each table column.  Links to the Sales Catalogs and Goupil files can be found in their own README files. You can view these database-specific files online by clicking on the respective directories listed above.
+Each database is provided in one or more CSV (comma separated values) files.  The Knoedler files reside in their own directory. The Sales Catalogs files and the Goupil files, due to their size, are stored in an AWS S3 bucket. Each of the database directories contains a database-specific README file documenting the sources from which each dataset has been derived, as well as a data dictionary with a description of each table column.  Links to the Sales Catalogs and Goupil files can be found in their README files. You can view these database-specific files online by clicking on the respective directories listed above.
 
 ## Usage guidelines
 
