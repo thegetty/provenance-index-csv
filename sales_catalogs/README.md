@@ -5,6 +5,7 @@
 * [General editorial guidelines](#general-editorial-guidelines)
 * [Acknowledgments](#acknowledgments)
 * [Attribution](#attribution)
+* [Files](#files)
 * [Data dictionaries](#data-dictionaries)
   * [Sales Contents](#sales-contents)
   * [Sales Descriptions](#sales-descriptions)
@@ -67,6 +68,24 @@ We respectfully ask that you acknowledge the Getty Research Institute® and Gett
 Suggested citation:
 
 >Getty Research Institute®, _CSV exports of the Getty Provenance Index®_ (June 1, 2022), <https://github.com/thegetty/provenance-index-csv/releases/tag/v3>
+
+## Files
+ - [sales_contents_1.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_1.csv) (113 MB)
+ - [sales_contents_2.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_2.csv) (107 MB)
+ - [sales_contents_3.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_3.csv) (249 MB)
+ - [sales_contents_4.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_4.csv) (247 MB)
+ - [sales_contents_5.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_5.csv) (260 MB)
+ - [sales_contents_6.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_6.csv) (278 MB)
+ - [sales_contents_7.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_7.csv) (267 MB)
+ - [sales_contents_8.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_8.csv) (267 MB)
+ - [sales_contents_9.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_9.csv) (261 MB)
+ - [sales_contents_10.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_10.csv) (266 MB)
+ - [sales_contents_11.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_11.csv) (263 MB)
+ - [sales_contents_12.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_12.csv) (261 MB)
+ - [sales_contents_13.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_13.csv) (45 MB)
+ - [sales_descriptions.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_descriptions.csv) (15 MB)
+
+
 
 ## Data Dictionaries
 
