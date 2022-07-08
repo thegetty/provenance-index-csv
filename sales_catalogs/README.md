@@ -84,6 +84,7 @@ Suggested citation:
  - [sales_contents_12.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_12.csv) (261 MB)
  - [sales_contents_13.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_contents_13.csv) (45 MB)
  - [sales_descriptions.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_descriptions.csv) (15 MB)
+ - [sales_catalogs_info.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/sales_catalogs/sales_catalogs_info.csv) (52 MB)
 
 
 
