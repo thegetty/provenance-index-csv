@@ -75,6 +75,8 @@ and clarity, editorial changes were made during and post-transcription:
     purchase and sales prices. As a result, prices may have been entered
     based on context clues as opposed to verbatim. Such prices appear in
     brackets. 
+## Files
+ - [knoedler.csv](https://jpgt-or-prd-provenance-index-csv.s3.us-west-2.amazonaws.com/knoedler/knoedler.csv) (17.6 MB)
 
 ## Data dictionary
 
